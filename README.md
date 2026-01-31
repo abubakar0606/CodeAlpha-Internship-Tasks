@@ -22,6 +22,8 @@ Provides TCP details such as sequence number, acknowledgment number, and TCP fla
 
 **Installation**
 **Install required Python library:**
+
+
 pip install scapy
 
 **Install Npcap (for Windows):**
@@ -32,9 +34,13 @@ pip install scapy
 
 **Usage
 Navigate to the project directory:**
+
+
 cd CodeAlpha_BasicNetworkSniffer
 
 **Run the network sniffer script:**
+
+
 python sniffer.py
 
 
