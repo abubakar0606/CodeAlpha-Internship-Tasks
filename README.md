@@ -32,3 +32,5 @@ cd CodeAlpha_BasicNetworkSniffer
 
 ### Run the network sniffer script:
 python sniffer.py
+
+# The script will start capturing network packets and display detailed information about each packet in real-time.
