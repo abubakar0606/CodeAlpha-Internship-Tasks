@@ -9,4 +9,4 @@ This repository contains all the tasks I have completed as part of my cybersecur
 
 - **Description:** Developed a network sniffer to capture and analyze network packets using Python.  
 - **LinkedIn Post:** https://www.linkedin.com/posts/abubakarmaqbool_codealpha-cybersecurity-internship-activity-7424285508584886273-vGKW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYd7g8B5y2YG_3_sr5v8vQWXsn_fMnQnUI 
-- **GitHub Repository:**  
+- **GitHub Repository:**  https://github.com/abubakar0606/CodeAlpha-Internship-Tasks/tree/main/Basic-Network-Sniffer-CodeAlpha-Task%201
