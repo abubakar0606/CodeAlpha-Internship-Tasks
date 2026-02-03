@@ -1,36 +1,12 @@
-# Network Sniffer
+# CodeAlpha Internship Tasks
 
-## Overview
+Welcome to my CodeAlpha internship repository!  
+This repository contains all the tasks I have completed as part of my cybersecurity internship at CodeAlpha.
 
-This project is a Basic Network Sniffer developed in Python. It captures and analyzes live network traffic and displays important packet details in real time. The tool uses the Scapy library for packet capturing and analysis on Windows systems with Npcap support.
 
-## Features
 
-- Captures network packets in real time.  
-- Displays source and destination IP addresses.  
-- Shows protocol type (TCP, UDP, ICMP).  
-- Displays packet length, capture time, TTL, and flags.  
-- Shows source and destination MAC addresses for Ethernet packets.  
-- Supports fragmented IP packet analysis.  
-- Provides TCP details such as sequence number, acknowledgment number, and TCP flags.  
+## Task 1: Network Sniffer
 
-## Installation
-
-### Install required Python library:
-pip install scapy
-
-### Install Npcap (for Windows):
-
-1. Visit the official Npcap website and download the installer.  
-2. Run the installer and complete the setup process.  
-3. Restart your system after installation.  
-
-## Usage
-
-### Navigate to the project directory:
-cd CodeAlpha_BasicNetworkSniffer
-
-### Run the network sniffer script:
-python sniffer.py
-
-### The script will start capturing network packets and display detailed information about each packet in real-time.
+- **Description:** Developed a network sniffer to capture and analyze network packets using Python.  
+- **LinkedIn Post:** https://www.linkedin.com/posts/abubakarmaqbool_codealpha-cybersecurity-internship-activity-7424285508584886273-vGKW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYd7g8B5y2YG_3_sr5v8vQWXsn_fMnQnUI 
+- **GitHub Repository:**  
